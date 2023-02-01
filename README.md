@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
-
-<img src="http://g.recordit.co/Py7JYlUY0O.gif"><br>
+<img src='seafund.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
