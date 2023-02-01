@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://g.recordit.co/Py7JYlUY0O.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br>
+<img src="http://g.recordit.co/Py7JYlUY0O.gif"><br>
 
 
 
