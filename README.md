@@ -35,6 +35,7 @@ GIF created with recordit
 ## Notes
 
 Describe any challenges encountered while building the app.
+    
     The most challaging aspect for me was being able to utilze the arrow functions
     and the filter and some of these concepts were new to me but now i see how
     useful and clean they make my code.
